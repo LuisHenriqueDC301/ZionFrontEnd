@@ -26,7 +26,7 @@ const teamMembers = [
   {
     name: "Nadson Lucas",
     roles: ["Audiovisual", "VideoMaker", "Estrategista de Conteúdo"],
-    image: "/images/team/Nadson.jpg",
+    image: "/images/team/Nadson.JPG",
   },
 ];
 
