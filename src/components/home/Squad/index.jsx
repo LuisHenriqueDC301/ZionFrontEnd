@@ -16,7 +16,7 @@ const teamMembers = [
   {
     name: "Sthefanny Vitória",
     roles: ["Social Media", "Organização de Projetos", "Administração"],
-    image: "/images/team/meuAmor.jpeg",
+    image: "/images/team/Sthefanny.jpeg",
   },
   {
     name: "Maria Eduarda",
@@ -26,7 +26,7 @@ const teamMembers = [
   {
     name: "Nadson Lucas",
     roles: ["Audiovisual", "VideoMaker", "Estrategista de Conteúdo"],
-    image: "/images/team/oManinho.jpg",
+    image: "/images/team/Nadson.jpg",
   },
 ];
 
