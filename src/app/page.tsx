@@ -24,16 +24,19 @@ export default function Home() {
 
   //<Pricing />
   //<Blog />
+
+  
+  //<Testimonials />
   return (
     <>
       <ScrollUp />
       <Hero />
       <Features />
+      <Team />
       <Video />
       <Brands /> 
       
-      <Testimonials />
-      <Team />
+
       <Contact />
     </>
   );

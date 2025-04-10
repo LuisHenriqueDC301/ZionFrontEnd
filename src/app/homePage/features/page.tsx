@@ -12,8 +12,6 @@ export const metadata: Metadata = {
 const FeaturesPage = () => {
   return (
     <>
-
-
       <Features />
     </>
   );
